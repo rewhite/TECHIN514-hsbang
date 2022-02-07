@@ -1,4 +1,4 @@
-# My Test Output from env_test
+# My Test Output from env_test.py
 ```
 (TECHIN514-hsbang) ➜  TECHIN514-hsbang git:(main) python GIX_envtest.py
 Python version: 3.8.12 | packaged by conda-forge | (default, Jan 30 2022, 23:13:55) 
